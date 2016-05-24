@@ -3,11 +3,12 @@ A kata to practice with asynchronous code
 
 ## Description
 Our customer need you to develop an interactive map where:
-1) We have to place a pin for every city
-2) If you click on one pin, you will display
+
+1. We have to place a pin for every city
+2. If you click on one pin, you will display
   - Information from Wikipedia
   - Images from Instagram, Google Images, etc..
-3) If you click two cities you will display the exchange rate between the two cities' country
+3. If you click two cities you will display the exchange rate between the two cities' country
 
 ## Notes
 You can get a full list of cities of the world from: https://raw.githubusercontent.com/David-Haim/CountriesToCitiesJSON/master/countriesToCities.json
